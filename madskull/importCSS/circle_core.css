@@ -383,7 +383,7 @@
 :root {
 	--backgroundDark: rgb(24, 28, 37);
 	--backgroundDarker: rgb(20, 23, 31);
-	--primary: #008ae6;
+	--primary: #ff0000;
 	--primaryGradient1: #ff0000;
 	--primaryGradient2: #ff9898;
 	--DangerColor: #dc3545;
@@ -2698,7 +2698,7 @@ svg[name=Nitro] g path {
 }
 
 .selectorButtonSelected-3y0Xdk,.selectorButtonSelected-336oUc {
-	background-color: #008ae6!important;
+	background-color: #ff0000!important;
 }
 
 .selectorButton-1HMwGR:not(.selectorButtonPremiumRequired-w-oLxt):hover,.theme-dark .selectorButton-wjWyGe:not(.selectorButtonSelected-336oUc):hover {
@@ -2874,7 +2874,7 @@ svg[name=Nitro] g path {
 }
 
 .selectorButtonSelected-t5V9On {
-	background-color: #008ae6;
+	background-color: #ff0000;
 }
 
 .selectorButton-EEUWed:not(.selectorButtonPremiumRequired-mKMbIu):hover {
@@ -2933,7 +2933,7 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .path-92Hmty {
-	stroke: #008ae6;
+	stroke: #ff0000;
 }
 
 .theme-dark .path2-1q7bG_ {
@@ -3304,7 +3304,7 @@ svg[name=Nitro] g path {
 }
 
 div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-	content: "Nocturnal 2.9 AutoUpdate";
+	content: "MadSkullRed 2.9 AutoUpdate";
 	display: block;
 }
 
