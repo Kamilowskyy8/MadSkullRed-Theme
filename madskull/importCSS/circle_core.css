@@ -52,7 +52,7 @@
 [role="img"][aria-label*="オンライン"]:before,
 [role="img"][aria-label*="線上"]:before,
 [role="img"][aria-label*="온라인"]:before {
-  box-shadow: 0 0 0 2px #43b581;
+  box-shadow: 0 0 0 2px #ff9898;
 }
 [role="img"][aria-label*="Do Not Disturb"]:before,
 [role="img"][aria-label*="Vil ikke forstyrres"]:before,
@@ -2533,7 +2533,7 @@ svg[name=Nitro] g path {
 }
 
 .liveBadge-yuNuMC {
-	background-color: #43b581;
+	background-color: #ff9898;
 	background: linear-gradient(to top left,var(--primaryGradient1),var(--primaryGradient2))!important;
 }
 
@@ -2546,7 +2546,7 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .voiceSectionIconWrapper-FO7UEY {
-	background-color: #43b581;
+	background-color: #ff9898;
 	background: linear-gradient(to top left,var(--primaryGradient1),var(--primaryGradient2))!important;
 }
 
@@ -2702,7 +2702,7 @@ svg[name=Nitro] g path {
 }
 
 .selectorButton-1HMwGR:not(.selectorButtonPremiumRequired-w-oLxt):hover,.theme-dark .selectorButton-wjWyGe:not(.selectorButtonSelected-336oUc):hover {
-	background-color: rgb(0, 109, 182);
+	background-color: rgb(182, 0, 0);
 }
 
 .item-3T2z1R,.group-1WdBVp {
@@ -2878,7 +2878,7 @@ svg[name=Nitro] g path {
 }
 
 .selectorButton-EEUWed:not(.selectorButtonPremiumRequired-mKMbIu):hover {
-	background-color: #0076c5;
+	background-color: #c50000;
 }
 
 .reactionDefault-GBA58K, .reactionSelected-1pqISm {
@@ -2890,7 +2890,7 @@ svg[name=Nitro] g path {
 }
 
 .allowSelected-25S_i5 {
-	background: #43b581;
+	background: #ff9898;
 }
 
 .modal-qgFCbT,.avatar-Uq3gXb, .userListOverflow-cTtEue {
@@ -2937,7 +2937,7 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .path2-1q7bG_ {
-	stroke: #0071bd;
+	stroke: #bd0000;
 }
 
 .theme-dark .path3-2l9TIX {
@@ -3684,7 +3684,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 }
 
 .avatarSpeaking-2c8-9i {
-	box-shadow: inset 0px 0px 5px 1px #43b581;
+	box-shadow: inset 0px 0px 5px 1px #ff9898;
 	border-radius: 50px;
 }
 
