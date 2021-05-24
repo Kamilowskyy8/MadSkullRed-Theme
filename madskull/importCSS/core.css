@@ -216,7 +216,7 @@
 	--backgroundCode: #2f3136;
 	--backgroundCodeLine: #3b3e45;
 	--backgroundName: #202225;
-	--nameShadow: #268bd2;
+	--nameShadow: #d22626;
   }
   .markup-2BOw-j pre {
 	position: relative;
@@ -383,7 +383,7 @@
 :root {
 	--backgroundDark: rgb(24, 28, 37);
 	--backgroundDarker: rgb(20, 23, 31);
-	--primary: #008ae6;
+	--primary: #ff0000;
 	--primaryGradient1: #ff0000;
 	--primaryGradient2: #ff9898;
 	--DangerColor: #dc3545;
@@ -1056,7 +1056,7 @@ svg[name=Nova_Discord] * {
 }
 
 .newMessagesBar-mujexs:hover {
-	background-color: #007acc
+	background-color: #cc0000
 }
 
 .dismiss-SCAH9H {
@@ -1746,7 +1746,7 @@ svg[name=Nova_Discord] * {
 }
 
 .actionButton-2PeQbJ:hover {
-	background-color: #007acc!important
+	background-color: #cc0000!important
 }
 
 .join-33Tr-7 .actionButton-2PeQbJ:hover {
@@ -1854,11 +1854,11 @@ svg[name=Nitro] g path {
 }
 
 .categoryFadeBlurple-1j72_A {
-	background-color: rgba(0,138,230,.8)!important
+	background-color: rgba(230, 0, 0, 0.8)!important
 }
 
 .categoryFadeBlurple-1j72_A:hover {
-	background-color: rgba(0,138,230,.9)!important
+	background-color: rgba(230, 0, 0, 0.9)!important
 }
 
 .focused-1En8bG:after,.result-3w1ZcL:hover:after {
@@ -2173,7 +2173,7 @@ svg[name=Nitro] g path {
 
 #bd-pub-button {
 	border-radius: 4px;
-	background-color: #2f3136;
+	background-color: #362f2f;
 	color: #b9bbbe;
 	text-align: center;
 	font-size: 12px;
@@ -2207,15 +2207,15 @@ svg[name=Nitro] g path {
 .mentioned-xhSam7,.replying-1x3H0T {
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
-	background-color: rgba(0,176,244,.05);
+	background-color: rgba(244, 0, 0, 0.05);
 }
 
 .mouse-mode.full-motion .mentioned-xhSam7:hover {
-	background-color: rgba(0,176,244,.1);
+	background-color: rgba(244, 0, 0, 0.1);
 }
 
 .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z {
-	background-color: rgba(0,176,244,.1);
+	background-color: rgba(244, 0, 0, 0.1);
 }
 
 .card-3AyPWq, .emptyCard-1RJw8n, .descriptionBox-1EKQKL {
@@ -2230,7 +2230,7 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4 {
-	background-color: #12151c;
+	background-color: #1c1212;
 }
 
 .imageWrapper-2p5ogY, .role-2irmRk, .embedFull-2tM8--, .listDefault-2y5Z9D .avatarContainer-2inGBK, .avatarSmall-2CW6I1, .scrollableContainer-2NUZem,.userSettingsAccount-2eMFVR .avatarUploaderInner-3Mrx2N,.avatar-3bWpYy,.avatarUploaderInner-3UNxY3,.avatar-1XO-mJ {
@@ -2332,7 +2332,7 @@ svg[name=Nitro] g path {
 }
 
 .channelHeader-3Gd2xq {
-	background-color: #11141a;
+	background-color: #1a1111;
 	border-radius: 5px 5px 0 0;
 }
 
@@ -2540,7 +2540,7 @@ svg[name=Nitro] g path {
 }
 
 .liveBadge-yuNuMC {
-	background-color: #43b581;
+	background-color: #b54343;
 	background: linear-gradient(to top left,var(--primaryGradient1),var(--primaryGradient2))!important;
 }
 
@@ -2559,7 +2559,7 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .voiceSectionIconWrapper-FO7UEY {
-	background-color: #43b581;
+	background-color: #b54343;
 	background: linear-gradient(to top left,var(--primaryGradient1),var(--primaryGradient2))!important;
 }
 
@@ -2711,11 +2711,11 @@ svg[name=Nitro] g path {
 }
 
 .selectorButtonSelected-3y0Xdk,.selectorButtonSelected-336oUc {
-	background-color: #008ae6!important;
+	background-color: #e60000!important;
 }
 
 .selectorButton-1HMwGR:not(.selectorButtonPremiumRequired-w-oLxt):hover,.theme-dark .selectorButton-wjWyGe:not(.selectorButtonSelected-336oUc):hover {
-	background-color: rgb(0, 109, 182);
+	background-color: rgb(182, 0, 0);
 }
 
 .item-3T2z1R,.group-1WdBVp {
@@ -2887,11 +2887,11 @@ svg[name=Nitro] g path {
 }
 
 .selectorButtonSelected-t5V9On {
-	background-color: #008ae6;
+	background-color: #e60000;
 }
 
 .selectorButton-EEUWed:not(.selectorButtonPremiumRequired-mKMbIu):hover {
-	background-color: #0076c5;
+	background-color: #c50000;
 }
 
 .reactionDefault-GBA58K, .reactionSelected-1pqISm {
@@ -2903,7 +2903,7 @@ svg[name=Nitro] g path {
 }
 
 .allowSelected-25S_i5 {
-	background: #43b581;
+	background: #ffa600;
 }
 
 .modal-qgFCbT,.avatar-Uq3gXb, .userListOverflow-cTtEue {
@@ -2946,15 +2946,15 @@ svg[name=Nitro] g path {
 }
 
 .theme-dark .path-92Hmty {
-	stroke: #008ae6;
+	stroke: #e60000;
 }
 
 .theme-dark .path2-1q7bG_ {
-	stroke: #0071bd;
+	stroke: #bd0000;
 }
 
 .theme-dark .path3-2l9TIX {
-	stroke: #004472;
+	stroke: #720000;
 }
 
 .iconWrapper-lS1uig {
@@ -3099,7 +3099,7 @@ svg[name=Nitro] g path {
 }
 
 .headerNormal-T_seeN, .topSectionNormal-2-vo2m {
-	background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background: linear-gradient(45deg, #ff9898, #e73c3c, #ff0000, #480000);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 }
@@ -3321,7 +3321,7 @@ svg[name=Nitro] g path {
 }
 
 div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-	content: "Nocturnal 2.9 AutoUpdate";
+	content: "MadSkullRed 2.9 AutoUpdate";
 	display: block;
 }
 
@@ -3350,7 +3350,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 }
 
 .background-1QDuV2 {
-	background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background: linear-gradient(45deg, #ff9898, #e73c3c, #ff0000, #480000);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 }
